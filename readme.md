@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/Royce012004">
+  <a href="https://royce012004.github.io/WD-SW4/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
