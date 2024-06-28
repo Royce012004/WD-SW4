@@ -4,9 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://royce012004.github.io/WD-SW4/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-  </a>
+  <a href="https://royce012004.github.io/WD-SW4/">Deployed Seatwork 4 Webite</a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Seatwork 4</h3>
 </div>
