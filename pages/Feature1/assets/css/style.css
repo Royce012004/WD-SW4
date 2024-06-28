@@ -65,7 +65,7 @@ section.feature1{
         color: #fff;
         text-shadow: 3px 4px 5px rgba(0,0,0,0.6);
         display: flex;
-        padding: 32rem 1rem 1rem 1rem;
+        padding: 23rem 1rem 1rem 1rem;
         justify-content: right;
         background: transparent;
         align-items: flex-start;
@@ -160,7 +160,7 @@ section.volumes{
         font-size: 6rem;
         text-shadow: 3px 4px 5px rgba(0,0,0,0.6);
         color: black;
-        padding: 36rem 1rem 1rem 1rem;
+        padding: 28rem 1rem 1rem 1rem;
         color: white;
     }
     & a{
@@ -202,6 +202,11 @@ footer.design2{
         & i{
             font-size: 30px;
             margin: 10px;
+            transition: 1s;
+            &:hover{
+                transform:rotateY(360deg);
+                color: orangered;
+            }
         }
     }
     & .service{
@@ -215,6 +220,13 @@ footer.design2{
             color: white;
             font-size: 20px;
             margin: 10px;
+            transition: 1s;
+            &:hover{
+                color: orangered;
+                background-color: black;
+                padding: 1rem;
+                border-radius: 10px;
+            }
         }
     }
     & .trademark{
