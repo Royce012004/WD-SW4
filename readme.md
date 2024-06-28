@@ -110,4 +110,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Chainsawman Landing page | used as a reference for Feature 1 | https://chainsawman.dog/ |
+| Playstation | used as a reference for Feature 2 | https://www.playstation.com/en-us/ |
