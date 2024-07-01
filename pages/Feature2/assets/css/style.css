@@ -122,6 +122,7 @@ section.feature2{
         flex-direction: column;
         height: 100dvh;
         padding-top: 1rem;
+        text-align: center;
     & img{
         height: 5rem;
         transition: 2.5s;
